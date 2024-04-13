@@ -1,6 +1,5 @@
 # Projeto de Gerenciamento de Produtos
 
-## Introdução:
 *Este projeto consiste em duas partes principais:*
 
 ## Interface Gráfica:
